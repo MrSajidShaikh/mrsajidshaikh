@@ -20,11 +20,11 @@
 <h3 align="left">Connect with me:</h3>
 
 
-  <ul>
-    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true> </i></a></li>
-    <li><a href="#"><i class="fa fa-whatsapp" aria-hidden="true> </i></a></li>
-    <li><a href="#"><i class="fa fa-youtube-play" aria-hidden="true> </i></a></li>
-  </ul>
+  <p align="left">
+    <a href="#"><i class="fa fa-twitter" aria-hidden="true> </i></a>
+    <a href="#"><i class="fa fa-whatsapp" aria-hidden="true> </i></a>
+    <a href="#"><i class="fa fa-youtube-play" aria-hidden="true> </i></a>
+  
 
 
 <p align="left">
