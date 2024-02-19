@@ -20,13 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 
 
-  <p align="left">
-    <a href="#"><i class="fa fa-twitter" aria-hidden="true> </i></a>
-    <a href="#"><i class="fa fa-whatsapp" aria-hidden="true> </i></a>
-    <a href="#"><i class="fa fa-youtube-play" aria-hidden="true> </i></a>
-  
-
-
 <p align="left">
 <a href="https://twitter.com/mr_sajid_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_sajid_09" height="30" width="40" /></a>
 <a href="https://fb.com/sajid shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajid shaikh" height="30" width="40" /></a>
