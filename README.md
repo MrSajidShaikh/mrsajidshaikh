@@ -8,12 +8,9 @@
 
 <h3></h3>
 
-
-
-
 <p align="left"> <a href="https://twitter.com/mr_sajid_09" target="blank"><img src="https://img.shields.io/twitter/follow/mr_sajid_09?logo=twitter&style=for-the-badge" alt="mr_sajid_09" /></a> </p>
 
-- 🌱 I’m currently learning **app developement**
+- 🌱 I’m currently learning **app development**
 
 - 📫 How to reach me **sajidshaikh12543@gmail.com**
 
